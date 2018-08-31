@@ -5,7 +5,7 @@
       {
         "appID": "4H36MPFKP7.com.hindsight.hindsightapp",
         "paths": [
-          "index2"
+          "/app/*"
         ]
       }
     ]
