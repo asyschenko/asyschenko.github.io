@@ -5,7 +5,8 @@
       {
         "appID": "6X5VJGHTTH.SmashingTeam.AUTODOC",
         "paths": [
-          "/app/"
+          "/app/",
+          "/invite/"
         ]
       }
     ]
