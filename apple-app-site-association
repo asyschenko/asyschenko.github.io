@@ -5,7 +5,8 @@
       {
         "appID": "6X5VJGHTTH.autodoc.KMTXSandbox",
         "paths": [
-          "*"
+          "*",
+          "/videos/*/*/"
         ]
       }
     ]
