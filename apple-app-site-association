@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "6X5VJGHTTH.SmashingTeam.AUTODOC",
+        "appID": "6X5VJGHTTH.autodoc.KMTXSandbox",
         "paths": [
-          "/invite/"
+          "*"
         ]
       }
     ]
