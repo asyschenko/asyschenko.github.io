@@ -3,10 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "6X5VJGHTTH.autodoc.KMTXSandbox",
+        "appID": "6X5VJGHTTH.SmashingTeam.AUTODOC",
         "paths": [
-          "*",
-          "/videos/*/*/"
+          "/videos/*"
         ]
       }
     ]
