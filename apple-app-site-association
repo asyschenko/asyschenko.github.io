@@ -5,7 +5,7 @@
       {
         "appID": "6X5VJGHTTH.SmashingTeam.AUTODOC",
         "paths": [
-          "/videos/*"
+          "NOT /_/*","/*"
         ]
       }
     ]
